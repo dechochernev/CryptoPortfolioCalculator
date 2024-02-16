@@ -5,6 +5,7 @@ This is a React web application for managing cryptocurrency portfolios. It allow
 ## Technologies Used
 
 - React
+- [Create react app](https://create-react-app.dev/)
 
 ## Getting Started
 
